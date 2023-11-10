@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/ProcessServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/HomeServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/dal/ProductDAO.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/ChangeProfileServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/BuyServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/SearchBy.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/admin/UpdateProductServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/dal/OrderDAO.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/login.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/admin/ChartDetail.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/profile.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/overtime.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/cart.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/dal/UserDAO.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/TestDateServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/ChangePassServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/revenue.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/sorthome.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/ShopHomeServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/dal/CategoryDAO.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/orderstatistic.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/addcategory.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/header.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/admin/RevenueServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/SearchProductByNameServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/PagingServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/footer.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/dal/DAO.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/DetailServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/RelativeServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/admin/UpdateCategoryServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/admin/SearchOrderBySomedayServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/register.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/admin/SortOrderDetailServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/CheckOutServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/admin/ChartServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/orderdetail.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/adminhome.jsp</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/admin/AddCategoryServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/web/ckfinder/skins/neko/ckfinder.css</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/CookieServlet.java</file>
+            <file>file:/C:/Users/asus/Desktop/Ass/Ass/ProjectPRJ/ShopOnline/src/java/controller/SortByPriceServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
